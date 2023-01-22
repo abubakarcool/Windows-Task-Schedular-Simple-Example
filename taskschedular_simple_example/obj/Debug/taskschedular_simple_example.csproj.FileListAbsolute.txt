@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\bin\Debug\taskschedular_simple_example.exe
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\bin\Debug\taskschedular_simple_example.pdb
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.Properties.Resources.resources
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.csproj.CopyComplete
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.exe
+C:\Users\PC\source\repos\taskschedular_simple_example\taskschedular_simple_example\obj\Debug\taskschedular_simple_example.pdb
